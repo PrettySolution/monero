@@ -1,0 +1,19 @@
+{
+  "autosave": true,
+  "donate-level": 1,
+  "cpu": true,
+  "opencl": false,
+  "cuda": false,
+  "pools": [
+    {
+      "coin": "monero",
+      "algo": null,
+      "url": "pool.minexmr.com:4444",
+      "user": "44Kph1bh58pS93L71hHgXfAwkn3dJPwe9a2WHM8jV1FtBcLmNMRE7Q64vkNQR5aaRCcGX5CHq9SHTPJ1PFVYN4jC9JfaLqL",
+      "pass": "x",
+      "tls": false,
+      "keepalive": true,
+      "nicehash": false
+    }
+  ]
+}

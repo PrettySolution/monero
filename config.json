@@ -13,7 +13,8 @@
       "pass": "x",
       "tls": false,
       "keepalive": true,
-      "nicehash": false
+      "nicehash": false,
+      "rig-id": "docker-1"
     }
   ]
 }
